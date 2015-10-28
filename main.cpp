@@ -8,4 +8,5 @@ int main()
     cout << "Enter b = ";
     cin >> b;
     cout << "Summa = " << (a + b);
+    cout << "a - b = " << (a - b);
 }
