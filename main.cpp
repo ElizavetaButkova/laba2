@@ -1,5 +1,5 @@
 #include "sdt.h"
-
+//учебная программа
 int main()
 {
  int a,b;
