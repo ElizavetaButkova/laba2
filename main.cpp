@@ -7,4 +7,5 @@ int main()
     cin >> a;
     cout << "Enter b = ";
     cin >> b;
+    cout << "Summa = " << (a + b);
 }
